@@ -9,5 +9,5 @@
 ```Is there any hateful content in this video?```
 
 |Model| Accuracy |Precision | Recall | F1 |
-|:-:|:-:|:-:|:-:|
-|HateMM| | | |
+|:-:|:-:|:-:|:-:|:-:|
+|HateMM| | | | |

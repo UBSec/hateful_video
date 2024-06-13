@@ -25,12 +25,12 @@
 
 - [Prompting Visual-Language Models for Efficient Video Understanding](https://link.springer.com/chapter/10.1007/978-3-031-19833-5_7). ECCV, 2022
 
-- [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMsinVideo Analysis](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2405.21075). arXiv, 2024
+- [Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMsinVideo Analysis](https://arxiv.org/pdf/2405.21075). arXiv, 2024
 
 - [VGMShield: Mitigating Misuse of Video Generative Models A Multi-Faceted Approach through Fake Video Detection, Tracing, and Prevention](https://arxiv.org/pdf/2402.13126). arXiv, 2024
 
 
 ## Tools
-- Video-LLaMa2 https://github.com/DAMO-NLP-SG/VideoLLaMA2
-- LLaVa-Next-video https://llava-vl.github.io/blog/2024-04-30-llava-next-video/
-- Gemini 1.5 Pro https://gemini.google.com/advanced?utm_source=google&utm_medium=cpc&utm_campaign=sem_lp&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqncJx5GhgXDk_CmLdC5XnZfolEoi0Z5KJLQE579rV-9XKlp2bVff9ksaAt2QEALw_wcB
+- Video-LLaMa2. https://github.com/DAMO-NLP-SG/VideoLLaMA2
+- LLaVa-Next-video. https://llava-vl.github.io/blog/2024-04-30-llava-next-video/
+- Gemini 1.5 Pro. https://gemini.google.com/advanced?utm_source=google&utm_medium=cpc&utm_campaign=sem_lp&gad_source=1&gclid=Cj0KCQjwsaqzBhDdARIsAK2gqncJx5GhgXDk_CmLdC5XnZfolEoi0Z5KJLQE579rV-9XKlp2bVff9ksaAt2QEALw_wcB

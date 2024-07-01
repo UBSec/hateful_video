@@ -10,4 +10,4 @@
 
 |Model| Accuracy |Precision | Recall | F1 |
 |:-:|:-:|:-:|:-:|:-:|
-|Gemini-1.5-pro(100 hate/non_hate videos each)|0.62416|0.5|0.92857|0.65|
+|Gemini-1.5-pro|0.64380|0.42741|0.94642|0.58889|

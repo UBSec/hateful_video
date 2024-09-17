@@ -1,11 +1,12 @@
-![image](https://github.com/user-attachments/assets/38d247f8-aedd-4c26-ad20-888281f2f522)### Dataset
+### Dataset
 |Dataset|# Hate| # Non-Hate|
 |:-:|:-:|:-:|
 |HateMM|431|652|
 
 
 
-### General Prompt:
+### Task 1: General Prompt
+
 ```Is there any hateful content in this video?```
 
 <table>

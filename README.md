@@ -18,7 +18,7 @@
     <th>F1</th>
   </tr>
   <tr>
-    <th colspan="5" style="text-align:center">Closed-source</th>
+    <th colspan="5" style="text-align:center"><em>Closed-source</em></th>
   </tr>
   <tr>
     <td>Gemini-1.5-pro</td>
@@ -35,7 +35,7 @@
     <td></td>
   </tr>
   <tr>
-    <th colspan="5" style="text-align:center">Open-source</th>
+    <th colspan="5" style="text-align:center"><em>Open-source</em></th>
   </tr>
   <tr>
     <td>VideoChat2</td>

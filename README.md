@@ -7,7 +7,7 @@
 
 ### Task 1: General Prompt
 
-```Is there any hateful content in this video?```
+``` "Is there any hateful content in this video? Please respond with 'Yes' or 'No'."```
 
 <table>
   <tr>

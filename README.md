@@ -1,7 +1,8 @@
 ### Dataset
-|Dataset|# Hate| # Non-Hate|
-|:-:|:-:|:-:|
-|HateMM|431|652|
+|Datas-et| Language| # Hate| # Non-Hate|
+|:-:|:-:|:-:|:-:|
+|HateMM|Eng|431|652|
+|MultiHateClip| Eng | | |
 
 
 

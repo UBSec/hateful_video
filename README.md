@@ -1,8 +1,9 @@
 ### Dataset
-|Datas-et| Language| # Hate| # Non-Hate|
-|:-:|:-:|:-:|:-:|
-|HateMM|Eng|431|652|
-|MultiHateClip| Eng | | |
+|Datas-et| Language| # Hate| # Non-Hate| Resource |
+|:-:|:-:|:-:|:-:| :-:|
+|HateMM|Eng|431|652| BitChute| 
+|MultiHateClip| Eng | | | YouTube|
+|MultiHateClip| Chinese | | | Bilibili|
 
 
 

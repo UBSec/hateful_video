@@ -47,11 +47,11 @@
     <td></td>
   </tr>
   <tr>
-    <td>VideoLLaMa2</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>VideoLLaMA2 (30FPS)</td>
+    <td>0.62442</td>
+    <td>0.54811</td>
+    <td>0.30536</td>
+    <td>0.39221</td>
   </tr>
   <tr>
     <td>LLaVA-Next-Video</td>

@@ -47,21 +47,21 @@
     <td></td>
   </tr>
   <tr>
-    <td>VideoLLaMA2 (30FPS)</td>
+    <td>VideoLLaMA2 (30Frames)</td>
     <td>0.62442</td>
     <td>0.54811</td>
     <td>0.30536</td>
     <td>0.39221</td>
   </tr>
   <tr>
-    <td>LLaVA-Next-Video(Image-Text, 24FPS)</td>
+    <td>LLaVA-Next-Video(Image-Text, 24Frames)</td>
     <td>0.55863</td>
     <td>0.46252</td>
     <td>0.67285</td>
     <td>0.54820</td>
   </tr>
   <tr>
-    <td>LLaVA-OneVision(Image-Text. 24FPS)</td>
+    <td>LLaVA-OneVision(Image-Text. 24Frames)</td>
     <td>0.65836</td>
     <td>0.80198</td>
     <td>0.18794</td>

@@ -54,14 +54,14 @@
     <td>0.39221</td>
   </tr>
   <tr>
-    <td>LLaVA-Next-Video(Image-Text)</td>
+    <td>LLaVA-Next-Video(Image-Text, 24FPS)</td>
     <td>0.55863</td>
     <td>0.46252</td>
     <td>0.67285</td>
     <td>0.54820</td>
   </tr>
   <tr>
-    <td>LLaVA-OneVision(Image-Text)</td>
+    <td>LLaVA-OneVision(Image-Text. 24FPS)</td>
     <td>0.65836</td>
     <td>0.80198</td>
     <td>0.18794</td>

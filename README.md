@@ -61,10 +61,10 @@
   </tr>
     <tr>
     <td>VideoLLaMA2-AV</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>  
+    <td>0.47166</td>
+    <td>0.40212</td>
+    <td>0.75622</td>
+    <td>0.52504</td>  
   </tr>
   <tr>
     <td>LLaVA-Next-Video(Image-Text, 24Frames)</td>
